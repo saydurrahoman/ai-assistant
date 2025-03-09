@@ -1,2 +1,2 @@
 # ai-assistant
-html css javaScritp ai assistant create
+live link:https://saydurrahoman.github.io/ai-assistant/
